@@ -1,0 +1,12 @@
+[package]
+name = "FundMe"
+version = "1.0.0"
+authors = []
+
+[addresses]
+FundMe = "0x0a5927ae7812c5e39202cae67f7e3465319fcb7e235105ae57e9b7c7bf9bd462"
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-framework.git", rev = "mainnet", subdir = "aptos-framework" }
+
+[dev-dependencies]
