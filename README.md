@@ -28,13 +28,20 @@ A fully decentralized crowdfunding platform built on the Aptos blockchain using 
 
 ## 📖 Project Description
 
-CrowdFunding DApp allows users to:
+CrowdFunding DApp is a decentralized application built on the Aptos blockchain that empowers individuals and communities to raise funds without relying on traditional, centralized crowdfunding platforms. Designed with transparency, security, and accessibility in mind, this platform leverages blockchain's core strengths to enable trustless and borderless fundraising.
 
-- Launch personalized fundraising campaigns
-- Accept secure contributions through Petra Wallet
-- Track live progress of each campaign
-- Eliminate centralized intermediaries in fundraising
-- Ensure trust and transparency using blockchain technology
+Users can seamlessly create their own fundraising campaigns by entering details like title, description, and fundraising goal. Contributors can browse live campaigns, view essential campaign details, and contribute using APT through the Petra Wallet integration. Every transaction is recorded on-chain, ensuring immutability, accountability, and real-time tracking of the funds raised.
+
+This platform is ideal for:
+
+- Individuals seeking funding for personal or social causes  
+- Developers and creators raising money for open-source projects  
+- Communities pooling resources for common goals  
+- NGOs and social activists who want to eliminate third-party commissions
+
+The UI is responsive and user-friendly, offering an intuitive experience across both desktop and mobile devices. The smart contracts are written in Move, ensuring safety and precise control over logic and resource management.
+
+Whether you're starting a campaign or contributing to one, CrowdFunding DApp offers a modern, decentralized alternative to traditional fundraising platforms — all while giving users full control and ownership.
 
 ---
 
